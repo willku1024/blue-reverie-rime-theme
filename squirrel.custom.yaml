@@ -4,7 +4,6 @@ patch:
     color_scheme_dark: blue_reverie_dark
     status_message_type: mix
     candidate_format: '[label]. [candidate] [comment]'
-    candidate_list_layout: stacked
     text_orientation: horizontal
     inline_preedit: true
     inline_candidate: false
