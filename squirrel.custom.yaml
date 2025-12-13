@@ -14,10 +14,11 @@ patch:
     memorize_size: true
     showPaging: false
     alpha: 1e+0
-    corner_radius: 7e+0
-    hilited_corner_radius: 0e+0
-    border_height: -2e+0
-    border_width: -2e+0
+    candidate_list_layout: linear
+    corner_radius: 1.2e+1
+    hilited_corner_radius: 1e+1
+    border_height: 0e+0
+    border_width: 6e+0
     line_spacing: 5e+0
     spacing: 8e+0
     shadow_size: 6e+0
@@ -39,11 +40,6 @@ patch:
       label_color: '0x888785'
       hilited_candidate_label_color: '0xFFFFFF'
       comment_text_color: '0xDEDDDD'
-      candidate_list_layout: linear
-      corner_radius: 1.2e+1
-      hilited_corner_radius: 1.2e+1
-      border_height: 0e+0
-      border_width: 6e+0
 
     blue_reverie_dark:
       name: "Blue Reverie Dark"
@@ -59,8 +55,3 @@ patch:
       label_color: '0xEBEBEB'
       hilited_candidate_label_color: '0xFFFFFF'
       comment_text_color: '0xDEDDDD'
-      candidate_list_layout: linear
-      corner_radius: 1.2e+1
-      hilited_corner_radius: 1.2e+1
-      border_height: 0e+0
-      border_width: 6e+0
