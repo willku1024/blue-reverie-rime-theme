@@ -31,7 +31,7 @@ patch:
       color_space: srgb
       back_color: '0xFFFFFF'
       hilited_back_color: '0x252320'
-      hilited_candidate_back_color: '0xFF7A00'
+      hilited_candidate_back_color: '0x76C303'
       text_color: '0xD8000000'
       hilited_text_color: '0xDEDDDD'
       candidate_text_color: '0x5E5E5E'
